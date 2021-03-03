@@ -1,0 +1,18 @@
+@import "reset.css";
+@import "controls.css";
+@import "canvas.css";
+
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: #f6f9fc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0px;
+}
